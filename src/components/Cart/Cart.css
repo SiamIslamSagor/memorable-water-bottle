@@ -1,0 +1,6 @@
+.cart-container > div > img {
+  width: 100px;
+  border: 2px solid tomato;
+  border-radius: 10px;
+  margin: 10px;
+}
